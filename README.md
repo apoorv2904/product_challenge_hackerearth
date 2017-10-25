@@ -18,7 +18,7 @@ OPTION 2 <br />
 To generate results, run the script "generate_submission.sh" <br />
 
 The script does the following <br />
- * Trains 5 Densenet models using different validation subsets ( currently using DENSENET169 but this can changed ) <br />
+ * Trains 5 CNN models using different validation subsets ( currently using DENSENET169 but this can changed ) <br />
  * Saves the predictions using the 5 models in the folder "Predictions" <br />
     - Uses Majority Voting to create a submisssion file "ensemble_model.csv"in the folder "VotingResults" <br />
     - Majority Voting can be done on other predictions by simpy placing the individual predictions in the folder VotingCandidates <br />
