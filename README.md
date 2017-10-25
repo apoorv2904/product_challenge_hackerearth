@@ -1,7 +1,7 @@
 My Transfer Learning solution to Grocery Product Detection Challenge at HackerEarth
 https://www.hackerearth.com/problem/machine-learning/identify-the-objects/
 
-This is the barebone setup. To run the code follow option 1 or 2
+To run the code follow option 1 or 2
 
 OPTION 1
     - Place Training Images in the folder "train_img"
