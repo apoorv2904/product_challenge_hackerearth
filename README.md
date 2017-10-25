@@ -3,16 +3,16 @@ https://www.hackerearth.com/problem/machine-learning/identify-the-objects/
 
 To run the code follow option 1 or 2
 
-OPTION 1
-    - Place Training Images in the folder "train_img"
-    - Place Training Images in the folder "test_img"
-    - Place pretrained modes in the folder "finetune_models/imagenet_models/" 
-	- Pretrained models can be found here
-	  https://github.com/flyyufelix/cnn_finetune
+OPTION 1 <br />
+    - Place Training Images in the folder "train_img" <br />
+    - Place Training Images in the folder "test_img" <br />
+    - Place pretrained modes in the folder "finetune_models/imagenet_models/" <br /> 
+	- Pretrained models can be found here <br />
+	  https://github.com/flyyufelix/cnn_finetune <br />
 
-OPTION 2
-    - Download the entire setup from the Google Drive Link
-      https://drive.google.com/open?id=0Bx84R0HH6GEIcXI4MTZOTm0yeHM
+OPTION 2 <br />
+    - Download the entire setup from the Google Drive Link <br />
+      https://drive.google.com/open?id=0Bx84R0HH6GEIcXI4MTZOTm0yeHM <br />
 
 
 To generate results, run the script "generate_submission.sh"
